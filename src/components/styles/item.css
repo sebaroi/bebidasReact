@@ -2,12 +2,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    text-decoration:none;
 }
 
 .cardProducto {
     margin: 10px;
     height: 350px;
     width: 300px;
+    text-decoration:none;
 }
 
 .descripcion {
@@ -16,6 +18,9 @@
     justify-content: center;
 }
 
+.card-body{
+    text-decoration:none;
+}
 
 .cardProduct_conten{
     display: flex;
@@ -75,6 +80,7 @@
 .precio{
     font-size: x-large;
     font-weight: bolder;
+    text-decoration: none;
 }
 
 .titulo{

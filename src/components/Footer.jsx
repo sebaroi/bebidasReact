@@ -48,7 +48,7 @@ const Footer = () => {
               <div className="footer-info-single">
                 <br />
                 <br />
-                <h2 className="title">ACERCA DE RASH</h2>
+                <h2 className="title">ACERCA DE OTRA COPA</h2>
                 <ul>
                   <li>
                     <a href="#">¿Quienes Somos?</a>

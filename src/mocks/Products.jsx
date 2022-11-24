@@ -81,6 +81,42 @@
       price: "2539",
       stock: 3,
     },
+    {
+      id:"10",
+      name: "Whisky Chivas Regal 12 Años Escocia botella 1 L",
+      category:"Whisky",
+      description: "40% de graduación alcohólica.",
+      imageProd: require("../imagenes/whisky/chivas.webp"), 
+      price: "6480",
+      stock: 13,
+    },
+    {
+      id:"11",
+      name: "Campari Aperitivo 750 Ml Botella",
+      category:"Aperitivos",
+      description: "Gran pareja con jugo de naranja",
+      imageProd: require("../imagenes/aperitivos/campari.webp"), 
+      price: "1230",
+      stock: 10,
+    },
+    {
+      id:"12",
+      name: "Licor Blue Curacao Cusenier 750 Ml",
+      category:"Licores",
+      description: "Infantable para darle color a tus tragos",
+      imageProd: require("../imagenes/licores/cusenier.webp"), 
+      price: "731",
+      stock: 7,
+    },
+    {
+      id:"13",
+      name: "Vodka Absolut Azul Clasic Importado Original 750 Ml",
+      category:"Vodka",
+      description: "Importado Original 750 Ml",
+      imageProd: require("../imagenes/vodka/vodka.webp"), 
+      price: "3142",
+      stock: 7,
+    },
 ]
 
 
