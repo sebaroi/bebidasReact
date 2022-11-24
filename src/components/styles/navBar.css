@@ -1,7 +1,11 @@
 .greet {
     color: white;
 }
-
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
 .formNatvar{
     min-width: 700px;
 }
@@ -22,8 +26,11 @@
     justify-content:space-around;
 }
 
-/* header {
+.banner{
     z-index: 3;
-    height: 150px;
-    position: sticky;
-    top: 0; } */
+    width:  100%; 
+    position: fixed;
+    top: 0; 
+    
+
+    } 
